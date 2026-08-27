@@ -65,15 +65,15 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATHARV-RASTOGI&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400" alt="GitHub Stats" />
+  <a href="https://github-stats-extended.vercel.app/api?username=ATHARV-RASTOGI&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
+    <img src="https://github-stats-extended.vercel.app/api?username=ATHARV-RASTOGI&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ATHARV-RASTOGI&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARV-RASTOGI&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400" alt="Top Languages" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ATHARV-RASTOGI&langs_count=4&theme=react">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ATHARV-RASTOGI&langs_count=4&theme=react" alt="Top Languages" />
+  </a>
 </p>
 
 ---
