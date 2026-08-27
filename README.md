@@ -6,6 +6,13 @@
   📫 Reach me at <strong>atharvrastogi32@gmail.com</strong>
 </p>
 
+- 🎓 Currently sharpening my backend & full-stack skills
+- 🔭 Currently working on **backend projects with Java Spring & PostgreSQL**
+- 🌱 Currently learning  system design 
+- 👯 Open to collaborating on **backend, or  full-stack**
+- 💬 Ask me about **Java, Spring, React, or Hibernate**
+- ⚡ Fun fact: like to debug faster with music on
+
 ---
 
 <h3 align="center">🌐 Connect with me</h3>
@@ -33,17 +40,18 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -57,7 +65,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATHARV-RASTOGI&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ATHARV-RASTOGI&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -65,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARV-RASTOGI&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARV-RASTOGI&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
@@ -81,6 +89,7 @@
   <br/><br/>
   <sub>— Marcus Aurelius, <strong>Meditations</strong></sub>
 </p>
+
 ---
 
 <p align="center">
